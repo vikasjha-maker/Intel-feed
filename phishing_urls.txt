@@ -298,6 +298,9 @@ https://approve-pending202.com/hqc6nv5wg
 https://approve-pending202.com/y7cr7ab25
 https://approve-pending202.com/legam7nc1
 https://approve-pending202.com/dzuvaf6k3
+http://42.235.87.108/i
+http://110.37.0.170/i
+http://61.53.132.185/bin.sh
 http://119.182.166.140/i
 http://42.235.87.108/bin.sh
 http://110.37.0.170/bin.sh
@@ -1146,6 +1149,7 @@ http://176.193.191.71/.i
 http://5.77.214.242/.i
 http://94.188.76.28/.i
 http://36.88.6.203/.i
+http://149.50.186.147/.i
 http://178.220.234.5/.i
 http://5.101.11.9/.i
 http://213.91.236.237/.i
@@ -1188,6 +1192,7 @@ http://45.153.34.90/web/eazybim.ps1
 http://83.239.105.190/mozi.a
 http://27.215.142.242/bin.sh
 http://128.127.102.134/.i
+http://203.176.137.88/.i
 http://61.7.157.26/.i
 http://42.86.143.46/bin.sh
 http://178.163.41.199/.i
@@ -1866,6 +1871,7 @@ http://175.173.142.223/bin.sh
 http://110.36.70.223/i
 http://110.36.70.223/bin.sh
 http://177.71.55.210/i
+http://177.71.55.210/bin.sh
 http://60.23.139.72/bin.sh
 http://8.133.18.61/02.08.2022.exe
 http://197.89.38.131/sshd
@@ -3428,6 +3434,7 @@ http://91.92.241.59/bizy.x64
 http://91.92.241.59/bizy.arm5
 http://91.92.241.59/odin.mips
 http://91.92.241.59/bizy.mpsl
+http://91.92.241.59/bizy.arm8
 http://91.92.241.59/odin.arm7
 http://91.92.241.59/odin.ppc
 http://91.92.241.59/odin.m68k
@@ -5687,7 +5694,6 @@ http://177.70.102.228/tmpftp/01/cancelamento/2023-08-28/info.zip
 http://177.70.102.228/tmpftp/ct-e/distribui%c3%a7%c3%a3o/02589791000405/consulta%20geral/2025-05-10/info.zip
 http://177.70.102.228/tmpftp/01/cancelamento/2020-05-14/info.zip
 http://177.70.102.228/tmpftp/ct-e/distribui%c3%a7%c3%a3o/02589791000162/consulta%20geral/2025-01-29/info.zip
-http://177.70.102.228/tmpftp/01/cancelamento/2021-05-27/info.zip
 http://177.70.102.228/tmpftp/ct-e/distribui%c3%a7%c3%a3o/02589791000324/consulta%20geral/2025-04-27/info.zip
 http://177.70.102.228/tmpftp/01/cancelamento/2019-04-17/info.zip
 http://177.70.102.228/tmpftp/ct-e/distribui%c3%a7%c3%a3o/02589791000677/consulta%20geral/2025-01-19/info.zip
@@ -5770,7 +5776,6 @@ http://177.70.102.228/tmpftp/01/carta%20de%20corre%c3%a7%c3%a3o/2021-05-24/info.
 http://177.70.102.228/tmpftp/01/consulta/2022-12-27/info.zip
 http://177.70.102.228/tmpftp/01/consulta/2021-02-04/info.zip
 http://177.70.102.228/tmpftp/ct-e/distribui%c3%a7%c3%a3o/02589791000405/consulta%20geral/2025-02-05/info.zip
-http://177.70.102.228/tmpftp/01/cancelamento/2024-08-21/info.zip
 http://177.70.102.228/tmpftp/ct-e/distribui%c3%a7%c3%a3o/02589791000162/consulta%20geral/2025-02-10/info.zip
 http://177.70.102.228/tmpftp/01/inutiliza%c3%a7%c3%a3o/2022-03-17/info.zip
 http://177.70.102.228/tmpftp/01/cancelamento/2025-04-17/info.zip
@@ -11944,6 +11949,7 @@ http://36.66.139.36/mozi.m
 http://89.28.58.97/mozi.m
 http://212.225.186.186/mozi.m
 http://66.181.166.140/mozi.m
+http://176.12.6.42/mozi.m
 http://36.66.108.167/mozi.m
 http://185.21.223.166/mozi.m
 http://31.186.54.203/mozi.m
@@ -12910,6 +12916,7 @@ http://176.62.179.34/i
 http://62.73.121.49/i
 http://202.131.244.202/i
 http://182.253.60.197/i
+http://89.28.58.97/i
 http://213.6.74.138/i
 http://195.218.152.38/i
 http://203.80.244.154/i

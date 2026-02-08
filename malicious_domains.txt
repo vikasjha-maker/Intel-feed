@@ -1,12 +1,9 @@
-github.com
-gitlab.com
 aixcijiax.mcv.kr
 i.404.pm
 raw.githubusercontent.com
 knfdoiojogneronifdionfldg.pw
 stopdicksucking.duckdns.org
 pjsn.hi2.ro
-chvomrec.s3.ap-southeast-1.amazonaws.com
 tukstoks-uzb.sbs
 vrajras.com
 groomingmfb.com
@@ -23,7 +20,6 @@ www.api.nishant-labs.com
 hopeful-bohr.82-165-181-201.plesk.page
 ip82-165-181-201.pbiaas.com
 mn.34509.su
-firebasestorage.googleapis.com
 gl1g7tts-5500.euw.devtunnels.ms
 www.tmcksa.com
 corporacioncrf.com
@@ -168,10 +164,8 @@ serasoo.direct.quickconnect.to
 skillnorequired.cc
 apn-87-251-249-41.static.gprs.plus.pl
 132.red-81-42-249.staticip.rima-tde.net
-drive.google.com
 cdn.jsdelivr.net
 cpe90-146-57-238.liwest.at
-best10cdn.blob.core.windows.net
 mobshah.com
 ybgctdtbzvgpdxjivafy.supabase.co
 frygzjyhtiunvhvnacif.supabase.co
@@ -292,13 +286,11 @@ planetariumobil.ro
 onfiltre.com.tr
 update.aegis.aliyun.com
 www.silver-hubdachwohnwagen.de
-bitbucket.org
 stonecradle.com
 4393eb8c.solaraweb-alj.pages.dev
 glaustralia.com
 www.flybirdexpbd.com
 public.demo.securecloudsandbox.com
-msoftdatastore.z22.web.core.windows.net
 update.volam2005pk.com
 thtp2.volamngayxua.net
 tiwanlinm.duckdns.org
@@ -316,7 +308,6 @@ www.ss-01.com
 c9791c08-f1e4-4402-9510-d04c13c50ea3.selstorage.ru
 dhnconstrucciones.com.ar
 c3436037.salamanderprocessing.pages.dev
-d3cciiowg5l3jx.cloudfront.net
 noithaticon.vn
 www.blackhattoolz.com
 pub-0478b308b8cf46709a73d0eed5afd633.r2.dev
@@ -331,7 +322,6 @@ onyxcryptorix.de
 onyxarmorcrypt.de
 onyxguardify.de
 onyxcyberedge.de
-codeload.github.com
 backupso.com
 dcrun.co.uk
 tyahelp.top
@@ -373,7 +363,6 @@ book.rollingvideogames.com
 leindisncieamrocea-1341831283.cos.sa-saopaulo.myqcloud.com
 parmisbuilding.com
 vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com
-hotelembuguacu.blob.core.windows.net
 179.248.3.202.ll.sta.mana.pf
 178.248.3.202.ll.sta.mana.pf
 99-118-215-24.lightspeed.irvnca.sbcglobal.net
@@ -544,7 +533,6 @@ fromthetrenchesworldreport.com
 www.dropbox.com
 fullstacknir.com
 ramactools.net
-storage.googleapis.com
 1717.1000uc.com
 mersped.mycpanel.rs
 palharesinformatica.com.br
@@ -569,7 +557,6 @@ ukguk71.ru
 server.toeicswt.co.kr
 bridgeroad.maverickpreviews.com
 shop.mediasova.ru
-onedrive.live.com
 kimyen.net
 www.teknoarge.com
 easybrand.vn
@@ -578,14 +565,12 @@ allendostmen.com
 www.saf-oil.ru
 chat-server.maverickpreviews.com
 www.cutting-edge.in
-docs.google.com
 ibnbatutta.pk
 vulkanvegas1000.sajautohaus.com
 www.playtown.co.za
 jyothishmathi.in
 visam.info
 softdl.360tpcdn.com
-sites.google.com
 cfs9.blog.daum.net
 cfs13.tistory.com
 cfs10.blog.daum.net
@@ -15693,7 +15678,6 @@ couponsuv.org
 darb.qmobilitpcj.com
 darb.qmobilitbyx.com
 seasolutions.com
-ec2-3-15-93-54.us-east-2.compute.amazonaws.com
 biurowsparciatechnicznego.pl
 mrsorage.github.io
 uphoolgglogeenie.godaddysites.com
