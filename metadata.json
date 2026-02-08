@@ -1,19 +1,12 @@
 {
-  "generated_at": "2026-02-08T04:29:42.923Z",
+  "generated_at": "2026-02-08T12:19:26.896Z",
   "sources": [
     "OpenPhish",
     "URLHaus",
-    "ThreatFox",
-    "Certstream",
-    "PhishTank",
-    "MalwareBazaar",
     "NRD"
   ],
   "counts": {
-    "phishing_urls": 0,
-    "malicious_domains": 0,
-    "malicious_ips": 0,
-    "file_hashes": 0,
-    "malware_families": 0
+    "phishing_urls": 13650,
+    "malicious_domains": 17960
   }
 }
