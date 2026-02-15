@@ -1,3 +1,6 @@
+direct-gateway-77.vifespoir.coupons
+tracking.vifespoir.coupons
+go.stillesee.coupons
 quick-verify.terrepure.coupons
 epic-tharp.130-12-180-55.plesk.page
 clever-poincare.130-12-180-55.plesk.page
@@ -200,7 +203,6 @@ rdm.91yunma.cn
 areyouready.co.za
 visualwikicloud.com
 electri.billregulator.com
-file.uhsea.com
 cat.xiaoshabi.nl
 access.skaparade.com
 checkfivem.com
