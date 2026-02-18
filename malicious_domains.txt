@@ -1,14 +1,20 @@
+deepblue.oceansync.coupons
+wavetide.oceansync.coupons
+boltfix.metalheart.coupons
+gearsync.metalheart.coupons
+beatlead.metalheart.coupons
+corepulse.metalheart.coupons
+hostserver.cloudtrace.coupons
+flowcloud.cloudtrace.coupons
 linkedge.cloudtrace.coupons
 datastream.cloudtrace.coupons
 lookheat.nightvision.coupons
 sightzoom.nightvision.coupons
 opticscan.nightvision.coupons
-darkview.nightvision.coupons
 wildtimber.timberwalk.coupons
 parkzone.timberwalk.coupons
 woodpath.timberwalk.coupons
-leafwalk.timberwalk.coupons
-craftbase.stonecraft.coupons
+kavacanada.ca
 raw.githubusercontent.com
 www.skwise.net
 api.skwise.net
@@ -20,7 +26,6 @@ www.messageforms.com
 nguyentuanan.com
 bbos.minet.vn
 files.catbox.moe
-mnurlogistics.az
 bvaco.com
 ia600603.us.archive.org
 eishin-kk-co.asia
@@ -47,6 +52,7 @@ aixcijiax.mcv.kr
 tr0ff3.cn
 vitoboy.com
 i.404.pm
+pjsn.hi2.ro
 biducaconfeitos.com.br
 vrajras.com
 scorpcasinos.com
@@ -76,6 +82,7 @@ sharecodepro.com
 unruffled-chaum.185-36-205-153.plesk.page
 www.backupallfresh2030.com
 co-emas.com
+ahnbbd.com
 frvrefrigeracao.com.br
 thebrandmantra.in
 www.longfeng188.com
@@ -172,7 +179,6 @@ theoremaoliveoil.com
 dl.2345.com
 www.notbak.com
 www.jozefinskiatelje.si
-vcc-library.uk
 gist.githubusercontent.com
 nelees.com
 clipaid.app
@@ -228,7 +234,6 @@ isiore.com.co
 fnvimoyvwkbxbmczlqus.supabase.co
 xshop.com.tr
 www2.0zz0.com
-kavacanada.ca
 ndirection.kr
 ecs-1-94-222-140.compute.hwclouds-dns.com
 bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link
@@ -456,6 +461,7 @@ jawaratekno.com
 swiftfusion.tech
 tsmau.com
 shaderm.com
+accesstelematics.com
 gabyagozetim.com
 riderspin.com
 estudio.ythan.com.br
@@ -481,6 +487,7 @@ farschid.de
 zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 trtmyanmar.com
 dreamwatchevent.com
+protherapycenter.com
 rxquickpay.com
 acms.saleseos.com
 rrhh.intelsolut.com
@@ -491,7 +498,6 @@ forms.saurashtrauniversity.edu
 izogard.com
 izocab.com
 xenon.studio
-reauthenticator.com
 kramersmarionnettes.com
 wearjora.com
 apple-service93.ru
