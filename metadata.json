@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-02-22T02:07:31.113Z",
+  "generated_at": "2026-02-22T06:47:37.206Z",
   "counts": {
-    "phishing_urls": 12775,
-    "malicious_domains": 15340,
-    "malicious_ips": 1891
+    "phishing_urls": 12751,
+    "malicious_domains": 15338,
+    "malicious_ips": 1893
   }
 }
